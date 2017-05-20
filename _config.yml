@@ -49,6 +49,12 @@ kramdown:
 # Disqus settings
 #disqus_username: _your_disqus_short_name_
 
+# intensedebate settings
+intensedebate_comments: true
+
+# livere
+livere_comments: true
+
 # Duoshuo settings
 duoshuo_username: huxblog
 # Share component is depend on Comment so we can NOT use share only.
