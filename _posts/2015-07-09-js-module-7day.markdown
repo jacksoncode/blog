@@ -45,4 +45,4 @@ tags:
 
 	{% if site.livere_comments %}
       {% include livere.html %}
-    {% endif %
+    {% endif %}
