@@ -42,7 +42,3 @@ tags:
 ### Thanks
 
 [Reveal.js](http://lab.hakim.se/reveal-js)
-
-{% if site.livere_comments %}
-  {% include livere.html %}
-{% endif %}

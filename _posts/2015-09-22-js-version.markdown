@@ -61,7 +61,3 @@ JavaScript 有着很奇怪的命名史。
 <small class="img-hint">来学 JavaScript 吧！</small>
 
 #### 著作权声明
-
-	{% if site.intensedebate_comments %}
-      {% include intensedebate-comments.html %}
-  {% endif %}
