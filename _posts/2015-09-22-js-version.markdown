@@ -64,4 +64,4 @@ JavaScript 有着很奇怪的命名史。
 
 	{% if site.intensedebate_comments %}
       {% include intensedebate-comments.html %}
-    {% endif %}
+  {% endif %}
