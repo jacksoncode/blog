@@ -1,10 +1,10 @@
 # Site settings
-title: My Blog
-SEOTitle: 你的博客 | My Blog
+title: Jackson's Blog
+SEOTitle: Jackson's Blog
 header-img: img/home-bg.jpg
 email: Jackson_zhang07@yeah.net
-description: ""
-keyword: ""
+description: "闲来无事，随便写写；业务爱好，喜写代码；虽未从业，仍不放弃；不忘初心，方得始终。"
+keyword: "Jackson, Blog"
 url: "https://jacksoncode.github.io"              # your host, for absolute URL
 baseurl: "/blog"         # for example, '/blog' if your blog hosted on 'host/blog'
 
@@ -56,7 +56,7 @@ intensedebate_comments: false
 livere_comments: true
 
 # Duoshuo settings
-duoshuo_username: huxblog
+duoshuo_username: firfunner
 # Share component is depend on Comment so we can NOT use share only.
 duoshuo_share: false                     # set to false if you want to use Comment without Sharing
 
