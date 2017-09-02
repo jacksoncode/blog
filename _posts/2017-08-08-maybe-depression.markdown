@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      "Maybe Depression"
-subtitle:   "I am sure!"
+subtitle:   "I am not sure!"
 date:       2017-08-08
 author:     "Jackson"
 header-img: "img/2017/Depression.jpg"
