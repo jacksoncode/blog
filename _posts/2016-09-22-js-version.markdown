@@ -1,9 +1,9 @@
 ---
 layout:     post
-title:      "Example Post"
+title:      "JavaScript 版本"
 subtitle:   "ES5, ES6, ES2016, ES.Next: What's going on with JavaScript versioning?"
-date:       2015-09-22
-author:     "Hux"
+date:       2016-09-22
+author:     "Jackson"
 header-img: "img/post-bg-js-version.jpg"
 tags:
     - 前端开发
