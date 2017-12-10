@@ -4,7 +4,7 @@ title:      "2018，重新出发"
 subtitle:   "——思考在路上，2018提前计划"
 date:       2017-12-10
 author:     "Jackson"
-header-img: "img/2017/g.jpg"
+header-img: "img/2017/startrun.jpg"
 tags:
     - 思考
     - 计划
