@@ -11,7 +11,7 @@ baseurl: "/blog"         # for example, '/blog' if your blog hosted on 'host/blo
 
 
 # SNS settings
-RSS: false
+RSS: true
 weibo_username:     firfunner
 zhihu_username:     firfunner
 github_username:    JacksonCode
@@ -90,17 +90,5 @@ friends: [
     {
         title: "Jackson Blog",
         href: "https://jacksoncode.github.io"
-    },{
-        title: "Foo",
-        href: "#"
-    },{
-        title: "Bar",
-        href: "#"
-    },{
-        title: "Example Friends",
-        href: "#"
-    },{
-        title: "It helps SEO",
-        href: "#"
     }
 ]
