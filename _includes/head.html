@@ -12,6 +12,20 @@
 
     <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
 
+    <!-- Open Graph -->
+    <meta property="og:title" content="{% if page.title %}{{ page.title }} - {{ site.SEOTitle }}{% else %}{{ site.SEOTitle }}{% endif %}">
+    <meta property="og:description" content="{{ site.description }}">
+    <meta property="og:type" content="website">
+    <meta property="og:url" content="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
+    <meta property="og:image" content="{{ site.baseurl }}/img/avatar-hux.jpg">
+    <meta property="og:site_name" content="{{ site.SEOTitle }}">
+
+    <!-- Twitter Card -->
+    <meta name="twitter:card" content="summary">
+    <meta name="twitter:title" content="{% if page.title %}{{ page.title }} - {{ site.SEOTitle }}{% else %}{{ site.SEOTitle }}{% endif %}">
+    <meta name="twitter:description" content="{{ site.description }}">
+    <meta name="twitter:image" content="{{ site.baseurl }}/img/avatar-hux.jpg">
+
     <!-- Bootstrap Core CSS -->
     <link rel="stylesheet" href="{{ "/css/bootstrap.min.css" | prepend: site.baseurl }}">
 
