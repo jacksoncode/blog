@@ -2,9 +2,9 @@
 layout: post
 title: "Claude Code 完全指南：从安装到多Agent协作"
 subtitle: "系统性地掌握 Claude Code CLI 的安装、Skills、Agent、Agent Teams 与 MCP"
-date: 2026-02-16
+date: 2026-02-14
 author: Jackson
-header-img: "img/2027/timg.jpg"
+header-img: "img/2017/timg.jpg"
 tags:
   - Claude Code
   - AI

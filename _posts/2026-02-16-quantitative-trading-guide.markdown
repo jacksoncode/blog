@@ -61,7 +61,7 @@ def moving_average_crossover(data, short_window=20, long_window=50):
     
     # 计算移动平均线
     signals['short_ma'] = data['close'].rolling(window=short_window).mean()
-    signals['long_ma'] = data['close'].rolling(window=long_window_mean()
+    signals['long_ma'] = data['close'].rolling(window=long_window).mean()
     
     # 生成交易信号
     signals['signal'] = 0
